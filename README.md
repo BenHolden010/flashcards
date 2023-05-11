@@ -4,6 +4,8 @@
 
 This application runs a game in the console that asks questions about javasript and returns correct or incorrect. There are 30 questions and at the end of the test your time elapsed and percent correct are displayed. You will be prompted for each question, have the opportunity to select an answer, and will be given feedback. You will be able to play through the entire deck of cards.
 
+![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
+
 ### Installation Instruction
 
 1. Fork and clone this repo.
@@ -13,14 +15,6 @@ This application runs a game in the console that asks questions about javasript 
 5. Run `node index.js` to play the game on the console
 
 To verify that it is setup correctly, run `npm test` in your terminal. You should have 18 tests passing.
-
-### How to View Your Code in Action
-
-Once you are working through Iteration 3, you will want to run the `node index.js` command in your terminal to run the game.
-
-When the game is functioning appropriately, you will be prompted for each question, have the opportunity to select an answer, and will be given feedback. You will be able to play through the entire deck of cards:
-
-![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
 
 ### context:
 
